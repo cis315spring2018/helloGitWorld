@@ -2,6 +2,7 @@
  *   file: JFrameMain.java
  Changed by Mannning in Github
  More changes made
+ and yet more
  */
 package test4Git;
 
