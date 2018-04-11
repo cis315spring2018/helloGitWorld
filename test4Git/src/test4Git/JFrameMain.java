@@ -1,6 +1,7 @@
 /**
  *   file: JFrameMain.java
  Changed by Mannning in Github
+ More changes made
  */
 package test4Git;
 
